@@ -1,0 +1,16 @@
+C:\Users\Tuyen\TicTacToe\TicTacToeApp\obj\Debug\net5.0\TicTacToeApp.csproj.AssemblyReference.cache
+C:\Users\Tuyen\TicTacToe\TicTacToeApp\obj\Debug\net5.0\TicTacToeApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tuyen\TicTacToe\TicTacToeApp\obj\Debug\net5.0\TicTacToeApp.AssemblyInfoInputs.cache
+C:\Users\Tuyen\TicTacToe\TicTacToeApp\obj\Debug\net5.0\TicTacToeApp.AssemblyInfo.cs
+C:\Users\Tuyen\TicTacToe\TicTacToeApp\obj\Debug\net5.0\TicTacToeApp.csproj.CoreCompileInputs.cache
+C:\Users\Tuyen\TicTacToe\TicTacToeApp\bin\Debug\net5.0\TicTacToeApp.exe
+C:\Users\Tuyen\TicTacToe\TicTacToeApp\bin\Debug\net5.0\TicTacToeApp.deps.json
+C:\Users\Tuyen\TicTacToe\TicTacToeApp\bin\Debug\net5.0\TicTacToeApp.runtimeconfig.json
+C:\Users\Tuyen\TicTacToe\TicTacToeApp\bin\Debug\net5.0\TicTacToeApp.runtimeconfig.dev.json
+C:\Users\Tuyen\TicTacToe\TicTacToeApp\bin\Debug\net5.0\TicTacToeApp.dll
+C:\Users\Tuyen\TicTacToe\TicTacToeApp\bin\Debug\net5.0\ref\TicTacToeApp.dll
+C:\Users\Tuyen\TicTacToe\TicTacToeApp\bin\Debug\net5.0\TicTacToeApp.pdb
+C:\Users\Tuyen\TicTacToe\TicTacToeApp\obj\Debug\net5.0\TicTacToeApp.dll
+C:\Users\Tuyen\TicTacToe\TicTacToeApp\obj\Debug\net5.0\ref\TicTacToeApp.dll
+C:\Users\Tuyen\TicTacToe\TicTacToeApp\obj\Debug\net5.0\TicTacToeApp.pdb
+C:\Users\Tuyen\TicTacToe\TicTacToeApp\obj\Debug\net5.0\TicTacToeApp.genruntimeconfig.cache
