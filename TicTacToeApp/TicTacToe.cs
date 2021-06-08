@@ -32,8 +32,7 @@ class TicTacToe{
         this.grid = new char[TicTacToe.gridSize][];
         InitializeGrid();
         this.userSymbol = userSymbol;
-        if (this.userSymbol=='X') this.aiSymbol ='O';
-        else this.aiSymbol = 'X';
+        this.aiSymbol = (this.userSymbol == 'X')? 'O':'X';
         
     }
     /***
